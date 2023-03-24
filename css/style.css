@@ -194,7 +194,7 @@ Navbar
 }
 
 .nav {
-    height: 5rem;
+  
     display: grid;
     -webkit-box-align: center;
     align-items: center;
@@ -205,7 +205,7 @@ Navbar
 
 .nav-center {
     width: 100%;
-    max-width: 1170px;
+   
     margin: 0 auto;
 }
 
